@@ -277,5 +277,7 @@ video {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
+  -webkit-box-shadow: 5px 5px 15px 5px #000000;
+  box-shadow: 5px 5px 15px 5px #000000;
 }
 
